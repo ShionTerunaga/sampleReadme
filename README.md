@@ -8,7 +8,7 @@ My name is Terunaga.
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,html,css,latex,nodejs,express,react,nextjs,nestjs,firebase,flask,webpack,vercel,git,github,vscode)](https://skillicons.dev)
 
 <h3 align="left">Github status:</h3>
 
