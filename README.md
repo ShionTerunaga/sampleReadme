@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Terunaga.
+  私はTerunagaと申します！
 
 
 <p align="left">
