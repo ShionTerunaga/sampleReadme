@@ -14,8 +14,6 @@
 
 <h3 align="left">Github status:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teru12012000&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teru12012000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=teru12012000)](https://github.com/ryo-ma/github-profile-trophy)
 
