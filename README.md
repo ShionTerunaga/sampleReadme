@@ -8,9 +8,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-少し触ったものもあればがっつり触ったものもあります。
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,php,html,css,latex,nodejs,express,react,nextjs,nestjs,firebase,flask,webpack,vercel,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,,html,css,,nodejs,express,react,nextjs,firebase,flask,,vercel,git,github,vscode)](https://skillicons.dev)
 
 <h3 align="left">Github status:</h3>
 
