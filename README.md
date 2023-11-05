@@ -12,7 +12,7 @@
 <h3 align="left">skill:</h3>
 <h4 align="left">web</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,html,css,nodejs,express,postman,react,nextjs,flask,sqlite,firebase,vercel,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css,nodejs,express,postman,react,nextjs,flask,sqlite,firebase,vercel,aws)](https://skillicons.dev)
 
 <h4 align="left">mobile</h3>
 
