@@ -22,8 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=lua,raspberrypi,linux,vscode,git,github,md,latex)](https://skillicons.dev)
 
-
-### とりあえず書いてみました
 <!--
 **teru12012000/teru12012000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
