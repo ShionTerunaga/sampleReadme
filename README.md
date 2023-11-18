@@ -20,7 +20,7 @@
 
 <h4 align="left">others</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=lua,raspberrypi,linux,vscode,git,github,md,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,lua,raspberrypi,linux,vscode,git,github,md,latex,docker)](https://skillicons.dev)
 
 <!--
 **teru12012000/teru12012000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
