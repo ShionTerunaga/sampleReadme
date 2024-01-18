@@ -1,6 +1,6 @@
 ## 自己紹介
 <p align="left">
-  名前：Terunaga<br>
+  名前：TERUSI<br>
   生年月日：2000/12/1<br>
   出身：茨城県<br>
   在住：東京都<br>
