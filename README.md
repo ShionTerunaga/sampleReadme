@@ -9,7 +9,7 @@
   2023年3月大学卒業、4月から社会人
 </p>
 
-<h2 align="left">スキル:</h3>
+<h2 align="left">スキル</h3>
 <h3 align="left">web</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css,nodejs,express,postman,react,nextjs,flask,sqlite,firebase,vercel,aws)](https://skillicons.dev)
