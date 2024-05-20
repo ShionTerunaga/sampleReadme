@@ -10,7 +10,7 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teru12012000&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teru12012000&theme=default)
 
 
 <h2 align="left">スキル</h3>
