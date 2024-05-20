@@ -15,14 +15,7 @@
 
 
 <h2 align="left">スキル</h3>
-<h3 align="left">web</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,html,css,nodejs,express,postman,react,nextjs,flask,sqlite,firebase,vercel,aws)](https://skillicons.dev)
 
-<h3 align="left">mobile</h3>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,go,lua,dart,html,css,nodejs,express,react,nextjs,flask,sqlite,firebase,vercel,aws,flutter,raspberrypi,linux,vscode,git,github,md,latex,docker,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,flutter,dart)](https://skillicons.dev)
-
-<h3 align="left">others</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,lua,raspberrypi,linux,vscode,git,github,md,latex,docker)](https://skillicons.dev)
