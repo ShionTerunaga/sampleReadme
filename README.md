@@ -9,6 +9,10 @@
   2023年3月大学卒業、4月から社会人
 </p>
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=teru12012000&show_icons=true&locale=en&layout=compact)
+
+
 <h2 align="left">スキル</h3>
 <h3 align="left">web</h3>
 
