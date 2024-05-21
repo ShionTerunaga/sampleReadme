@@ -50,3 +50,7 @@
 # CONTRIBUTE
 
 [Yamada UI](https://github.com/yamada-ui/yamada-ui) (Just a little)
+
+<div align="center">
+  <img src="https://github.com/teru12012000/teru12012000/assets/69517378/5b4f7fa0-e5e2-4226-8b4f-22e57870fd3c"/>
+</div>
