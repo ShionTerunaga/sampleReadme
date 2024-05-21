@@ -16,5 +16,13 @@
 <h2 align="left">スキル</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,go,lua,dart,html,css,nodejs,express,react,nextjs,flask,sqlite,firebase,vercel,aws,flutter,raspberrypi,linux,vscode,git,github,md,latex,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,go,lua,dart,html,css,nodejs,bun,express,react,nextjs,flask,sqlite,firebase,vercel,aws,flutter,raspberrypi,linux,vscode,git,github,md,latex,docker,postman)](https://skillicons.dev)
 
+
+$$
+e^{i\pi}+1=0
+$$
+
+$$
+\lim_{n\to\infty} n^n=\infty
+$$
