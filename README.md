@@ -1,6 +1,6 @@
 # Hello everyone 🤪
 
-# Introduction
+🍈# Introduction
  <div align="center">
    <table border=1>
    <tr>
@@ -9,27 +9,27 @@
    </tr>
    <tr>
      <td>Name</td>
-     <td>TERUSI</td>
+     <td>TERUSI😎</td>
    </tr>
    <tr>
      <td>Birthday</td>
-     <td>2000/12/1</td>
+     <td>2000/12/1🥰</td>
    </tr>
    <tr>
      <td>Birthplace</td>
-     <td>Ibaraki in Japan</td>
+     <td>Ibaraki in Japan🍈</td>
    </tr>
    <tr>
      <td>University</td>
-     <td>Tokyo university of science(2019/4~2023/3)</td>
+     <td>Tokyo university of science(2019/4~2023/3)🏫</td>
    </tr>
    <tr>
      <td>Sports</td>
-     <td>Soccer,Track and Field</td>
+     <td>Soccer⚽️,Track and Field🏃🏻‍♂️</td>
    </tr>
    <tr>
      <td>Become engineer</td>
-     <td>2023/4</td>
+     <td>2023/4👨‍💻</td>
    </tr>
  </table>
  </div>
