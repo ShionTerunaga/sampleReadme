@@ -1,6 +1,6 @@
 # Hello everyone 🤪
 
-🍈# Introduction
+# Introduction
  <div align="center">
    <table border=1>
    <tr>
